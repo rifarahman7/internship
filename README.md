@@ -1,5 +1,5 @@
-# internship
-#Customer Attrition Analysis
+# #Customer Attrition Analysis
+
 Verizonet, a telecommunications company based in California, has been operating for six years,
 providing phone and internet services to customers across more than a thousand cities and zip
 codes. Despite a highly skilled sales team successfully attracting new clients, the company faces a
